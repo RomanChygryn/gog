@@ -1,0 +1,38 @@
+.app-container {
+  max-width: 1060px;
+  width: 100%;
+  margin: 0 auto;
+}
+figure {
+  margin: 0;
+}
+
+.productInCart {
+  @include wh(90px,25px);
+  background-color: #80AA00;
+  left: 0;
+  top: -18px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .productinCart-icon {
+    svg {
+      max-width: 15px;
+      margin-right: 5px;
+      fill: #fff;
+    }
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .productInCart-text {
+      text-transform: uppercase;
+      color: #fff;
+      font-size: 12px;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: 400;
+    }
+  }
+}

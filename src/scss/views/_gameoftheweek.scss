@@ -1,0 +1,153 @@
+.weekly {
+  padding: 40px 0;
+
+  &__headline {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+  }
+
+  &__games {
+    padding-top: 20px;
+  }
+
+  &__featured {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  &__featured-item {
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25);
+  }
+
+  &__featured-image {
+    img {
+      max-width: 100%;
+    }
+  }
+
+  &__offer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  &__offer-item {
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.25);
+    min-height: 185px;
+    position: relative;
+  }
+
+  &__offer-image {
+    position: relative;
+    img {
+      max-width: 100%;
+    }
+  }
+
+  &__offer-description {
+    padding: 11px 9px 5px 9px;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  &__offer-desc {
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  &__offer-item {
+    background-color: #fff;
+    max-width: 200px;
+    min-width: 150px;
+    width: 100%;
+    margin-bottom: 20px;
+    &.disabled {
+      opacity: .7;
+      box-shadow: none;
+      .weekly__offer-item__link {
+        display: none;
+      }
+    }
+    &__link {
+      position: absolute;
+      left: 0;
+      top: 0;
+      @include wh(100%, 100%);
+      text-decoration: none;
+      &:focus,
+      &:active {
+        outline: none;
+        text-decoration: none;
+      }
+    }
+  }
+
+  &__offer-footer {
+    position: absolute;
+    bottom: 7px;
+    left: 0;
+    width: 100%;
+  }
+
+  &__offer-price {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  &__offer-owned {
+    span {
+      text-transform: uppercase;
+      padding: 5px 10px;
+      border: 1px solid #a9a9a9;
+      border-radius: 5px;
+      line-height: 13px;
+      background: none;
+      color: #696969;
+      display: inline-block;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+    }
+  }
+
+  &__offer-price-item {
+    padding: 0;
+    margin-right: 5px;
+    p,
+    button {
+      font-family: 'Source Sans Pro', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      margin: 0;
+      padding: 0;
+
+    }
+  }
+
+  .price-btn {
+    padding: 5px 10px;
+    border: 1px solid #a9a9a9;
+    border-radius: 5px;
+    line-height: 13px;
+    background: none;
+    color: #696969;
+    &:focus,
+    &:active {
+      outline: none;
+    }
+  }
+  
+  &__offer-discount {
+    background-color: #00905e;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #00905e;
+  }
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "customAttributes": [],
+    "developer": "Volition",
+    "publisher": "Interplay",
+    "gallery": [
+      "//images-4.gog.com/4e4c85f81ebb0f1a15f6e41506dffc8e0edae4fbe4dbaf19240ca1374ccd2b1b",
+      "//images-4.gog.com/4648c7e39d4a51fe90738a6c1e0cc8abf8ef91cea05adab12d06ddbd2e5ccd20",
+      "//images-3.gog.com/041d785e79cd22e83bfd14457be313bbff19ff464fffdb109d720ed6de9a3571",
+      "//images-3.gog.com/e6f843ea91d39976a515b37847a4c139c55ac0c9263887246011edafe9030acf",
+      "//images-2.gog.com/e5de50fee8ce3bf3177056b38e8455de1e52a6f51a88ec887762eb28d8f54d0a",
+      "//images-1.gog.com/d69d5a4a89838f944fa2900472029bb0862f0723d822e4c19cff77b28b21c1e2",
+      "//images-1.gog.com/016713139551425745bcac26e12f1b5a28db6b581fc18c77dc7616402b4e8a58",
+      "//images-2.gog.com/4e5ec5de8586b0bd744421ec7158d3e538c0953252b887621af4a52e1711c310",
+      "//images-1.gog.com/50960e76a0225d33bc7986a8c5afce35167d0e04ac7e9d84c602bf5f0a8ca7ff",
+      "//images-2.gog.com/c895c674caa0b9e6c687b20100ce164e872e37ef4d744bd203e73c6c68e04a41",
+      "//images-3.gog.com/acd282aa47dc565d43ec97b17946d8bfef54fa821562b4d29bcafa1f901be59e",
+      "//images-2.gog.com/d550d26ff0e94fe9b5d24c1fbe465d72d57a489f849a9c4179945c62be65dd85"
+    ],
+    "video": null,
+    "supportedOperatingSystems": [
+      "windows",
+      "mac"
+    ],
+    "genres": [
+      "Simulation",
+      "Combat",
+      "Sci-fi"
+    ],
+    "globalReleaseDate": 889653600,
+    "isTBA": false,
+    "price": {
+      "amount": "7.59",
+      "baseAmount": "7.59",
+      "finalAmount": "7.59",
+      "isDiscounted": false,
+      "discountPercentage": 0,
+      "discountDifference": "0.00",
+      "symbol": "£",
+      "isFree": false,
+      "discount": 0,
+      "isBonusStoreCreditIncluded": false,
+      "bonusStoreCreditAmount": "0.00",
+      "promoId": null
+    },
+    "isDiscounted": false,
+    "isInDevelopment": false,
+    "id": 4,
+    "releaseDate": 889653600,
+    "availability": {
+      "isAvailable": true,
+      "isAvailableInAccount": true
+    },
+    "salesVisibility": {
+      "isActive": true,
+      "fromObject": {
+        "date": "2008-07-15 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "from": 1216069200,
+      "toObject": {
+        "date": "2020-12-31 23:59:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "to": 1609451999
+    },
+    "buyable": true,
+    "title": "Descent: Freespace Battle Pack",
+    "image": "//images-1.gog.com/58e9a905ef59d7a9882ccad71bd4af68c3288679c64d829b6e30ae32d7a2e953",
+    "url": "/game/freespace_expansion",
+    "supportUrl": "/support/freespace_expansion",
+    "forumUrl": "/forum/freespace_series",
+    "worksOn": {
+      "Windows": true,
+      "Mac": true,
+      "Linux": false
+    },
+    "category": "Simulation",
+    "originalCategory": "Simulation",
+    "rating": 47,
+    "type": 1,
+    "isComingSoon": false,
+    "isPriceVisible": true,
+    "isMovie": false,
+    "isGame": true,
+    "slug": "freespace_expansion",
+    "isWishlistable": true
+  }
+]

@@ -1,0 +1,539 @@
+[
+  {
+    "customAttributes": [],
+    "developer": "Volition",
+    "publisher": "Interplay",
+    "gallery": [
+      "//images-4.gog.com/4e4c85f81ebb0f1a15f6e41506dffc8e0edae4fbe4dbaf19240ca1374ccd2b1b",
+      "//images-4.gog.com/4648c7e39d4a51fe90738a6c1e0cc8abf8ef91cea05adab12d06ddbd2e5ccd20",
+      "//images-3.gog.com/041d785e79cd22e83bfd14457be313bbff19ff464fffdb109d720ed6de9a3571",
+      "//images-3.gog.com/e6f843ea91d39976a515b37847a4c139c55ac0c9263887246011edafe9030acf",
+      "//images-2.gog.com/e5de50fee8ce3bf3177056b38e8455de1e52a6f51a88ec887762eb28d8f54d0a",
+      "//images-1.gog.com/d69d5a4a89838f944fa2900472029bb0862f0723d822e4c19cff77b28b21c1e2",
+      "//images-1.gog.com/016713139551425745bcac26e12f1b5a28db6b581fc18c77dc7616402b4e8a58",
+      "//images-2.gog.com/4e5ec5de8586b0bd744421ec7158d3e538c0953252b887621af4a52e1711c310",
+      "//images-1.gog.com/50960e76a0225d33bc7986a8c5afce35167d0e04ac7e9d84c602bf5f0a8ca7ff",
+      "//images-2.gog.com/c895c674caa0b9e6c687b20100ce164e872e37ef4d744bd203e73c6c68e04a41",
+      "//images-3.gog.com/acd282aa47dc565d43ec97b17946d8bfef54fa821562b4d29bcafa1f901be59e",
+      "//images-2.gog.com/d550d26ff0e94fe9b5d24c1fbe465d72d57a489f849a9c4179945c62be65dd85"
+    ],
+    "video": null,
+    "supportedOperatingSystems": [
+      "windows",
+      "mac"
+    ],
+    "genres": [
+      "Simulation",
+      "Combat",
+      "Sci-fi"
+    ],
+    "globalReleaseDate": 889653600,
+    "isTBA": false,
+    "price": {
+      "amount": "7.59",
+      "baseAmount": "7.59",
+      "finalAmount": "7.59",
+      "isDiscounted": false,
+      "discountPercentage": 0,
+      "discountDifference": "0.00",
+      "symbol": "£",
+      "isFree": false,
+      "discount": 0,
+      "isBonusStoreCreditIncluded": false,
+      "bonusStoreCreditAmount": "0.00",
+      "promoId": null
+    },
+    "isDiscounted": false,
+    "isInDevelopment": false,
+    "id": 4,
+    "releaseDate": 889653600,
+    "availability": {
+      "isAvailable": true,
+      "isAvailableInAccount": true
+    },
+    "salesVisibility": {
+      "isActive": true,
+      "fromObject": {
+        "date": "2008-07-15 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "from": 1216069200,
+      "toObject": {
+        "date": "2020-12-31 23:59:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "to": 1609451999
+    },
+    "buyable": true,
+    "title": "Descent: Freespace Battle Pack",
+    "image": "//images-1.gog.com/58e9a905ef59d7a9882ccad71bd4af68c3288679c64d829b6e30ae32d7a2e953",
+    "url": "/game/freespace_expansion",
+    "supportUrl": "/support/freespace_expansion",
+    "forumUrl": "/forum/freespace_series",
+    "worksOn": {
+      "Windows": true,
+      "Mac": true,
+      "Linux": false
+    },
+    "category": "Simulation",
+    "originalCategory": "Simulation",
+    "rating": 47,
+    "type": 1,
+    "isComingSoon": false,
+    "isPriceVisible": true,
+    "isMovie": false,
+    "isGame": true,
+    "slug": "freespace_expansion",
+    "isWishlistable": true
+  },
+  {
+    "customAttributes": [],
+    "developer": "Volition",
+    "publisher": "Interplay",
+    "gallery": [
+      "//images-2.gog.com/1f3d26426fba87f0918a1e0e3581f3a516a55e654ee2f0f45f4dd962dc84261f",
+      "//images-4.gog.com/a948d636c1abb9c94af3c3b4471af41365f51ae9f3ecd9ce15dc8d4bfb3fb1ed",
+      "//images-4.gog.com/d503ed5a5588822b49be31aa778f07ccddb8b3309be90caa39e591be3df1e932",
+      "//images-4.gog.com/ddf32016b6e12a5f06a46b3895565461d2a07b65e148e0eb95af69f98f956ca5",
+      "//images-2.gog.com/1c7714dcad30003d056ec900d7cd17c2cd77f40a6e7893a73964b4b09ad9482d",
+      "//images-2.gog.com/c8aafa9d381a4edb0f67fe9b75dcd7cb798c9f01123661177f6a850179aa12b9",
+      "//images-4.gog.com/521fc80b3682a244c0b090745e8af9d82546eeb807d165081f189b6b94d7ee25",
+      "//images-1.gog.com/5233450f76eb45b5d72607a7c744105184424635eb46707d51433a6bfd0dc959",
+      "//images-3.gog.com/4d15a0542b67536b5f93cae6ed270953d1800991610491ded7f9cd36bc30c798",
+      "//images-1.gog.com/9b6643f4d9201abbce41f4eace1f9da4e1292028ad78413893b272fd06667878",
+      "//images-2.gog.com/64862166f89a5f1211b57af54bf402e6beb6dd7e84aaaec174f0c3f9401a5f60",
+      "//images-3.gog.com/bfc35029c8dbda068129844f7efc62cfff6c9820f92d457e3d262b37c00f8b22"
+    ],
+    "video": null,
+    "supportedOperatingSystems": [
+      "windows"
+    ],
+    "genres": [
+      "Simulation",
+      "Combat",
+      "Sci-fi"
+    ],
+    "globalReleaseDate": 938725200,
+    "isTBA": false,
+    "price": {
+      "amount": "7.59",
+      "baseAmount": "7.59",
+      "finalAmount": "7.59",
+      "isDiscounted": false,
+      "discountPercentage": 0,
+      "discountDifference": "0.00",
+      "symbol": "£",
+      "isFree": false,
+      "discount": 0,
+      "isBonusStoreCreditIncluded": false,
+      "bonusStoreCreditAmount": "0.00",
+      "promoId": null
+    },
+    "isDiscounted": false,
+    "isInDevelopment": false,
+    "id": 5,
+    "releaseDate": 938725200,
+    "availability": {
+      "isAvailable": true,
+      "isAvailableInAccount": true
+    },
+    "salesVisibility": {
+      "isActive": true,
+      "fromObject": {
+        "date": "2008-07-15 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "from": 1216069200,
+      "toObject": {
+        "date": "2020-12-31 23:59:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "to": 1609451999
+    },
+    "buyable": true,
+    "title": "Freespace 2",
+    "image": "//images-1.gog.com/d73f470c34ac19b3f35638d177689507d2663d9974c0b3ff4e5c6e733f916e2d",
+    "url": "/game/freespace_2",
+    "supportUrl": "/support/freespace_2",
+    "forumUrl": "/forum/freespace_series",
+    "worksOn": {
+      "Windows": true,
+      "Mac": false,
+      "Linux": false
+    },
+    "category": "Simulation",
+    "originalCategory": "Simulation",
+    "rating": 48,
+    "type": 1,
+    "isComingSoon": false,
+    "isPriceVisible": true,
+    "isMovie": false,
+    "isGame": true,
+    "slug": "freespace_2",
+    "isWishlistable": true
+  },
+  {
+    "customAttributes": [],
+    "developer": "Shiny Entertainment",
+    "publisher": "Interplay",
+    "gallery": [
+      "//images-1.gog.com/1c95f819fe0d6e7596d7aa18bff304e30e0c9ef0ed74747130c9cd0f28d8d359",
+      "//images-2.gog.com/91f37155e8a4924662f8b12a76cf13757da9f4f6ac4e341c84bcf1263bf25c50",
+      "//images-2.gog.com/5612f64500ecfd73c1b36105c8b4015c1be861b83acced51cac4c1c709869790",
+      "//images-2.gog.com/2832d1367ca1a670ebdcbd69efc9633a6e6f65f9b373b316fe6eac143976de4d",
+      "//images-3.gog.com/642d6c84945ceb9618e436737ab7cbe002a734354eed0855e0fee0080361c4c2",
+      "//images-4.gog.com/8c9554273d546820f9c23775d54e454287a57f3080c1ad530902f617c6dba1e7",
+      "//images-3.gog.com/15b1863ec63e524e5403c030a1f69da7e09c6a7b8ee969487472e227496c7707",
+      "//images-2.gog.com/d9d882f9b59b3f7fb260b416a536fd1dfd8404c32dc0be6de10b515df0aea0e8",
+      "//images-1.gog.com/f3e4498de6671edbd4671f2c38b7f7ca09bad26b63b275bf0f5e5a4992aca6fc",
+      "//images-3.gog.com/240264d8bccf2fa944b6fd6ceb94557bbad8cd68bcdc214af3955eeda4f075df",
+      "//images-2.gog.com/d007df4dfafb048426ea4ca93e4c68b28ee021994445d01f61f00124e4ba22dd",
+      "//images-2.gog.com/0f5f677d203f95b6c91c69be410300ba340f630299300e7fae7e38b7b7ba7618"
+    ],
+    "video": null,
+    "supportedOperatingSystems": [
+      "windows",
+      "mac"
+    ],
+    "genres": [
+      "Action",
+      "TPP",
+      "Sci-fi"
+    ],
+    "globalReleaseDate": 862347600,
+    "isTBA": false,
+    "price": {
+      "amount": "7.59",
+      "baseAmount": "7.59",
+      "finalAmount": "7.59",
+      "isDiscounted": false,
+      "discountPercentage": 0,
+      "discountDifference": "0.00",
+      "symbol": "£",
+      "isFree": false,
+      "discount": 0,
+      "isBonusStoreCreditIncluded": false,
+      "bonusStoreCreditAmount": "0.00",
+      "promoId": null
+    },
+    "isDiscounted": false,
+    "isInDevelopment": false,
+    "id": 6,
+    "releaseDate": 862347600,
+    "availability": {
+      "isAvailable": true,
+      "isAvailableInAccount": true
+    },
+    "salesVisibility": {
+      "isActive": true,
+      "fromObject": {
+        "date": "1991-12-25 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "from": 693612000,
+      "toObject": {
+        "date": "2020-12-31 23:59:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "to": 1609451999
+    },
+    "buyable": true,
+    "title": "MDK",
+    "image": "//images-3.gog.com/c02a5a3b627f4682a672f14b716334a9b37acc554308852396c3b6fc89ee405d",
+    "url": "/game/mdk",
+    "supportUrl": "/support/mdk",
+    "forumUrl": "/forum/mdk_series",
+    "worksOn": {
+      "Windows": true,
+      "Mac": true,
+      "Linux": false
+    },
+    "category": "Action",
+    "originalCategory": "Action",
+    "rating": 44,
+    "type": 1,
+    "isComingSoon": false,
+    "isPriceVisible": true,
+    "isMovie": false,
+    "isGame": true,
+    "slug": "mdk",
+    "isWishlistable": true
+  },
+  {
+    "customAttributes": [],
+    "developer": "Osmotic Studios",
+    "publisher": "Fellow Traveller",
+    "gallery": [
+      "//images-4.gog.com/ca61e695a3493e55aa88b03783508ec90196a5b4c8eaf045bfec9f2064ee9e82",
+      "//images-1.gog.com/31663f6b1eefec8a479c60f9c8235bd52839d8091cac87de4cc304444c669db2",
+      "//images-4.gog.com/b76cf31fc5ffbdaacff8d2fa1223c21abf6da16f5bb9bab38fcea95d77ad917d",
+      "//images-2.gog.com/d384ee9c21623a68d872df634cb08cc23097f41eb67009998717ac0ba14646f3",
+      "//images-4.gog.com/1af84a5b9fab6d33c328bd1d282d9e13dac4862e8830aaf61919ed0c63438b99",
+      "//images-2.gog.com/49080f5e2897c368c5beb3de81039b134ca026934b0d8898775709058415e8f1",
+      "//images-4.gog.com/370c8525705eca8e0e45c7e61c7c0e7986828d81578963bf079dd3016fdf8cee",
+      "//images-3.gog.com/8f2bf0463bbcd538bba6152f2740105f29f8c34144c305d8961446f10b8496f7",
+      "//images-1.gog.com/da577459cf8b8b1d2f57d8848f60648679582a67d87eef55b25319ba3dff88c2",
+      "//images-2.gog.com/8a13842ab8d2146094718c3271612778a654170e7c0d31575a4381b4e0aa1226",
+      "//images-3.gog.com/649f3a60a3bff94a4c306ab466627a7a6ce80e73c77d2aef65db637d45a77737",
+      "//images-4.gog.com/48dcdfe72db691b3393be3b46c921a5e46217fe5f1b8dd95b6f0104e3a2fd19f",
+      "//images-4.gog.com/144352d6504c30655d2a5a5ded40e3cdd8b88b5deee7eca24969f44c9cd86016",
+      "//images-1.gog.com/dbeb80017922cfac0408aa01163846024702dbe98debad171397957c9e0962a7"
+    ],
+    "video": {
+      "id": "YDuhvWoN3yw",
+      "provider": "youtube"
+    },
+    "supportedOperatingSystems": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "genres": [
+      "Simulation",
+      "Puzzle",
+      "Detective-mystery"
+    ],
+    "globalReleaseDate": 1519250400,
+    "isTBA": false,
+    "price": {
+      "amount": "4.89",
+      "baseAmount": "7.19",
+      "finalAmount": "4.89",
+      "isDiscounted": true,
+      "discountPercentage": 32,
+      "discountDifference": "2.30",
+      "symbol": "£",
+      "isFree": false,
+      "discount": 32,
+      "isBonusStoreCreditIncluded": false,
+      "bonusStoreCreditAmount": "0.00",
+      "promoId": "20190517_weekend_sale"
+    },
+    "isDiscounted": true,
+    "isInDevelopment": false,
+    "id": 1089914798,
+    "releaseDate": 1519250400,
+    "availability": {
+      "isAvailable": true,
+      "isAvailableInAccount": true
+    },
+    "salesVisibility": {
+      "isActive": true,
+      "fromObject": {
+        "date": "2018-02-22 17:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "from": 1519315140,
+      "toObject": {
+        "date": "2020-12-31 23:59:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "to": 1609451999
+    },
+    "buyable": true,
+    "title": "Orwell: Ignorance is Strength",
+    "image": "//images-4.gog.com/a1e1fbc7aadbd966faf87607c06e01457a68745f9c303ba6a2873b4bc5576dd6",
+    "url": "/game/orwell_ignorance_is_strength",
+    "supportUrl": "/support/orwell_ignorance_is_strength",
+    "forumUrl": "/forum/orwell_series",
+    "worksOn": {
+      "Windows": true,
+      "Mac": true,
+      "Linux": true
+    },
+    "category": "Simulation",
+    "originalCategory": "Simulation",
+    "rating": 37,
+    "type": 1,
+    "isComingSoon": false,
+    "isPriceVisible": true,
+    "isMovie": false,
+    "isGame": true,
+    "slug": "orwell_ignorance_is_strength",
+    "isWishlistable": true
+  },
+  {
+    "customAttributes": [],
+    "developer": "Shiny Entertainment",
+    "publisher": "Interplay",
+    "gallery": [
+      "//images-3.gog.com/ff4266f81aa88127cc7e93dbf409f0315cc4fea6048761f31795cb1a9feebd69",
+      "//images-2.gog.com/f08c7024baf779228ee70c6edd2eb1de36a89340ef3fb279f11af33597d7f2a6",
+      "//images-2.gog.com/69ea7c5c9b671c17c1fe35d464e5387fe12e636ea7c0c7dcd1d2000160247632",
+      "//images-1.gog.com/75c7282f70a6b86d6da14eca5da9fb749240d2a1d8a4e70ebe0053966d493faf",
+      "//images-2.gog.com/152e12d8ded1bee37b67442be42e5d2f539075110c56ab12e1ff790ca793c30f",
+      "//images-4.gog.com/b0efcbbd855559d8f2b856878c64521fc38c4c0ccfedd3956ed7b2049a16f37e",
+      "//images-1.gog.com/20ba5ca3654f03d0ede11405c457a033ad04a8f61812707ce5dee581cf5f8af0",
+      "//images-2.gog.com/c07e77fa0751f9b9f1fd32887e0ca6ccf8c932e961cf55389dc5d8182caef561",
+      "//images-4.gog.com/1e41fbdd5973635a894f4096b30e8750988f442703accd79163bc89ca1ec84bb",
+      "//images-1.gog.com/9409cfc425b4ea9dc52190db4cc5d0da847c5a52b2e48d5aa78023d02b7b0902",
+      "//images-4.gog.com/97804b430e3789432f2c4544e7e0a87ac5769d655c64d602640fccd730768529",
+      "//images-3.gog.com/bc3abe12ccd769c11a52ac5c97f031b36298a6ed5fe0d6e77245ff93a38e6d46"
+    ],
+    "video": null,
+    "supportedOperatingSystems": [
+      "windows"
+    ],
+    "genres": [
+      "Action",
+      "TPP",
+      "Sci-fi"
+    ],
+    "globalReleaseDate": 954450000,
+    "isTBA": false,
+    "price": {
+      "amount": "7.59",
+      "baseAmount": "7.59",
+      "finalAmount": "7.59",
+      "isDiscounted": false,
+      "discountPercentage": 0,
+      "discountDifference": "0.00",
+      "symbol": "£",
+      "isFree": false,
+      "discount": 0,
+      "isBonusStoreCreditIncluded": false,
+      "bonusStoreCreditAmount": "0.00",
+      "promoId": null
+    },
+    "isDiscounted": false,
+    "isInDevelopment": false,
+    "id": 7,
+    "releaseDate": 954450000,
+    "availability": {
+      "isAvailable": true,
+      "isAvailableInAccount": true
+    },
+    "salesVisibility": {
+      "isActive": true,
+      "fromObject": {
+        "date": "2008-07-15 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "from": 1216069200,
+      "toObject": {
+        "date": "2020-12-31 23:59:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "to": 1609451999
+    },
+    "buyable": true,
+    "title": "Messiah",
+    "image": "//images-2.gog.com/c4b3a466c8925326b5f8a887728ba1be2a6103593e52e245f8f27ef507bc4d1a",
+    "url": "/game/messiah",
+    "supportUrl": "/support/messiah",
+    "forumUrl": "/forum/Messiah",
+    "worksOn": {
+      "Windows": true,
+      "Mac": false,
+      "Linux": false
+    },
+    "category": "Action",
+    "originalCategory": "Action",
+    "rating": 37,
+    "type": 1,
+    "isComingSoon": false,
+    "isPriceVisible": true,
+    "isMovie": false,
+    "isGame": true,
+    "slug": "messiah",
+    "isWishlistable": true
+  },
+  {
+    "customAttributes": [],
+    "developer": "Reflexive Entertainment",
+    "publisher": "Interplay",
+    "gallery": [
+      "//images-4.gog.com/2c52160c1e93776e24e84b908eed19ced93bb4cc8bb492b3db6e41349a74a584",
+      "//images-2.gog.com/d1853c3d870c3d90361fb7bd8e42fd642e066e0536cc8c5ab2c009c706232dd4",
+      "//images-4.gog.com/5d2a7c7c4a99a71cb05bc1df396897140a75c732655525d30808bce5bb2b4e03",
+      "//images-2.gog.com/2ccf91c383e3082791166d847f660a840adf4361d6b88f2f61a53580d3f4237a",
+      "//images-3.gog.com/98b836d697053dabfca7b16ece9c3f47ff6b471366f1daf82202615303fdd849",
+      "//images-4.gog.com/54172e272095cc8b3bf2905aa4a90059d31e13623987cda01c0068818e554877",
+      "//images-1.gog.com/a6d0138edf8bb292fb76d298cf2a7e0f98d8b59a29626ef9a5005793950ca329",
+      "//images-1.gog.com/49de9251709ca8a39e093ce4809015cd6c0dbcc036901cde31b8b9087d8602d2",
+      "//images-3.gog.com/1eacadd200590c9ac04a0582dc43d2688aff9402a42d242cfadf9f9210e468bc",
+      "//images-1.gog.com/70dc7e41e3d7bcf4fd21bd8dfbf7ffcb6a1c79623457fc1ce3be36a7f1b2a4c9",
+      "//images-4.gog.com/64217d93d6bb9b67b73ed1e84da748e810e484d3583205c5ae39dedd1b5154c2",
+      "//images-3.gog.com/15c073d7aa7f988eb0ce38f13656c8932ae8a564a9dc8171c7663588d63e2278"
+    ],
+    "video": null,
+    "supportedOperatingSystems": [
+      "windows"
+    ],
+    "genres": [
+      "Role-playing",
+      "Adventure",
+      "Fantasy"
+    ],
+    "globalReleaseDate": 1060722000,
+    "isTBA": false,
+    "price": {
+      "amount": "7.59",
+      "baseAmount": "7.59",
+      "finalAmount": "7.59",
+      "isDiscounted": false,
+      "discountPercentage": 0,
+      "discountDifference": "0.00",
+      "symbol": "£",
+      "isFree": false,
+      "discount": 0,
+      "isBonusStoreCreditIncluded": false,
+      "bonusStoreCreditAmount": "0.00",
+      "promoId": null
+    },
+    "isDiscounted": false,
+    "isInDevelopment": false,
+    "id": 8,
+    "releaseDate": 1060722000,
+    "availability": {
+      "isAvailable": true,
+      "isAvailableInAccount": true
+    },
+    "salesVisibility": {
+      "isActive": true,
+      "fromObject": {
+        "date": "2008-07-15 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "from": 1216069200,
+      "toObject": {
+        "date": "2020-12-31 23:59:59.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Nicosia"
+      },
+      "to": 1609451999
+    },
+    "buyable": true,
+    "title": "Lionheart: Legacy of the Crusader",
+    "image": "//images-3.gog.com/ae76710bc8824fb60d2e4b9c35f3c374f99a32c74e3800910d72be4a61adf743",
+    "url": "/game/lionheart_legacy_of_the_crusader",
+    "supportUrl": "/support/lionheart_legacy_of_the_crusader",
+    "forumUrl": "/forum/Lionheart_Legacy_of_the_Crusader",
+    "worksOn": {
+      "Windows": true,
+      "Mac": false,
+      "Linux": false
+    },
+    "category": "Role-playing",
+    "originalCategory": "Role-playing",
+    "rating": 35,
+    "type": 1,
+    "isComingSoon": false,
+    "isPriceVisible": true,
+    "isMovie": false,
+    "isGame": true,
+    "slug": "lionheart_legacy_of_the_crusader",
+    "isWishlistable": true
+  }
+]
